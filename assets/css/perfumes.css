@@ -1,0 +1,5 @@
+.perfumes{
+    display: flex;
+    padding: 5rem 0 0 70px;
+    flex-wrap: wrap;
+}

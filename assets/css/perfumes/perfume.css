@@ -1,0 +1,15 @@
+.perfume{
+    background-color: white;
+    display: flex;
+    margin-bottom: 5rem;
+    flex-direction: column;
+    margin-right: 3rem;
+    width: 19rem;
+    font-family: 'Poiret One', cursive;
+    box-shadow: 0 4px 4px rgb(0,0,0,0.75);
+    border-radius: 55px 0 ;
+}
+.perfume-imagem{
+    width: 100%;
+    border-radius: 55px 0 ;
+}

@@ -1,0 +1,23 @@
+.banner{
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    filter: blur(2px);
+}
+
+.banner-titulo{
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    font-size: 5.0625rem;
+
+    position: absolute;
+    top: 26.875rem;
+    left: 59.375rem;
+    color: #fdfdfd;
+    text-shadow: 0 4px 4px rgb(0,0,0,0.75);
+    transform: translate(-50%, -50%);
+ 
+}

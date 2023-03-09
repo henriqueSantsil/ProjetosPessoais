@@ -1,0 +1,11 @@
+.indicacao-caixa{
+    /* width: 37.5rem; */
+    width: 37.5rem;
+    position: relative;
+    margin: 2.1875rem auto 8.125rem auto;
+    background-color: #D7D7D9;
+    border-radius: 10px;
+    height: 18.144375rem;
+    display: flex;
+    box-shadow: 0 4px 4px rgb(0,0,0,0.75);
+}

@@ -1,0 +1,12 @@
+.perfume-do-dia{
+    border-radius: 10px 0 0 10px;
+    margin: 0;
+}
+
+.indicacao{
+    background-color: #F2F2F2;
+    padding: 1px 0;
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+}

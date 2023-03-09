@@ -1,0 +1,26 @@
+@import url(normalize.css);
+@import url(centralizar.css);
+@import url(cabecalho.css);
+@import url(menu/menu.css);
+@import url(menu/menu-link.css);
+@import url(indicacao/indicacao.css);
+@import url(indicacao/indicacao-titulo.css);
+@import url(indicacao/indicacao-conteudo.css);
+@import url(indicacao/indicacao-caixa.css);
+@import url(indicacao/indicacao-area.css);
+@import url(indicacao/indicacao-sinalizador.css);
+@import url(departamento-frase/departamento-frase-descricao.css);
+@import url(departamento-frase/departamento-frase-titulo.css);
+@import url(departamento-frase/departamento-frase.css);
+@import url(perfumes.css);
+@import url(perfumes/perfume.css);
+@import url(perfumes/perfume-titulo.css);
+@import url(perfumes/perfume-descricao.css);
+@import url(perfumes/perfume-conteudo.css);
+@import url(perfumes/perfumes-caixa.css);
+@import url(banner.css);
+@import url(perfumes/perfumes-titulo.css);
+@import url(rodape.css);
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Caveat&family=Lobster&family=Nunito+Sans:wght@200&family=Phudu:wght@300;400&family=Poiret+One&family=Quicksand:wght@300&display=swap');

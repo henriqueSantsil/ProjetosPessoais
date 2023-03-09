@@ -1,0 +1,11 @@
+.indicacao-sinalizador{
+    width: 21.875rem;
+    margin: 8.125rem auto 0 auto;
+    text-align: center;
+    font-size: 1.25rem;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 200;
+    color: white;
+    background-color: #aa211c;
+    border-radius: 3.125rem;
+}

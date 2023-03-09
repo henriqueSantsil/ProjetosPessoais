@@ -1,0 +1,11 @@
+.menu-lista{
+    display: flex;
+}
+
+.menu-item{
+    list-style: none;
+}
+
+.menu{
+    margin-right: 3.125rem;
+}
